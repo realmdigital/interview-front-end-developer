@@ -19,5 +19,5 @@ Turn `wireframe.png` into structured, maintainable, responsive HTML + CSS
 
 ## How to send this to us
 
-* Send a link to your public Git repository (GitHub, BitBucket, GitLab, etc) to jobs@realmdigital.co.za
+* Send a link to your public Git repository (GitHub, BitBucket, GitLab, etc) to work@realmdigital.co.za
 * Do not email a zip file containing your code.
